@@ -1,6 +1,16 @@
 # TMQR_Collaboration
 A set of how tos and walkthroughts for data aquisition and research.
 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://www.quantinsti.com/blog/implement-python-in-interactive-brokers-api/
+
+Using IBridgePy to implement Python in Interactive Brokers API
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 How do I automate stock trading using Python? by Owen Kealey
 https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.quora.com%2FHow-do-I-automate-stock-trading-using-Python%2Fanswer%2FOwen-Kealey-3%3Fshare%3D79506ded%26srid%3DuWg77&data=02%7C01%7C%7Cd5e36945fd054bc5256008d5bfa52ec8%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C636625638522451177&sdata=AebMh2I43atoi3YYdUc7E9JnBQdj9YXIVg5fqGUZvtU%3D&reserved=0
 
