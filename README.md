@@ -1,6 +1,9 @@
 # TMQR_Collaboration
 A set of how tos and walkthroughts for data aquisition and research.
 
+http://nicolasmauhe.com/computational_finance.html
+
+bt walk throug example.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
